@@ -50,3 +50,20 @@ print(me.greet())
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mikan382&style=flat-square&color=orange" alt="profile views" />
 </p>
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mikan382/Mikan382/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mikan382/Mikan382/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/Mikan382/Mikan382/output/github-contribution-grid-snake.svg"
+  />
+</picture>
